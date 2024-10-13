@@ -21,7 +21,7 @@ def main():
 
         elif choice == "F":
 
-            fahrenheit = float(input("fahrenheit_in: "))
+            fahrenheit = float(input("fahrenheit: "))
 
             celsius = covert_to_celsius(fahrenheit)
 
